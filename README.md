@@ -31,10 +31,10 @@ ecommerce-project/
 ## 🖼️ Diagrams
 
 **ER Diagram**
-![ERD](erd/ERD.png)
+
 
 **Enhanced ER Diagram**
-![EERD](erd/EERD.png)
+
 
 ## 🧱 Database Schema
 
