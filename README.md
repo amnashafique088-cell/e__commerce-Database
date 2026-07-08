@@ -182,7 +182,7 @@ A view joining `payment` and `cod` to show `payment_ID`, `payment_date`, and `co
 
 - MySQL 8.0
 - MySQL Workbench (For schema)
-- Darw.io (For EERD & ERD )
+- Draw.io (For EERD & ERD )
 
 
 
