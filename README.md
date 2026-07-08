@@ -26,7 +26,7 @@ ecommerce-project/
 | `erd/EERD.png` | ✅ Enhanced ER Diagram image (shows the `category` superclass with `clothing`/`electronics`/`food` subclasses). |
 | `README.md` | ✅ This file. |
 
-> **Note:** `table_creation.sql` and the `.docx` file were **not included** — `table_creation.sql` was an early draft (mostly commented out) superseded by `e_commerce_backup.sql`, and the `.docx` content has already been extracted into `queries/queries.sql` in a cleaner, plain-text SQL format that's easier to read/run on GitHub.
+
 
 ## 🖼️ Diagrams
 
@@ -181,5 +181,8 @@ A view joining `payment` and `cod` to show `payment_ID`, `payment_date`, and `co
 ## 🛠️ Tech Stack
 
 - MySQL 8.0
-- MySQL Workbench (for ERD/EERD design)
+- MySQL Workbench (For schema)
+- Darw.io (For EERD & ERD )
+
+
 
